@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.posts{
+  background-color: burlywood;
+  width: 700px;
+  margin: auto;
+}
+.todos{
+  background-color: rgb(135, 195, 222);
+  width: 400px;
+  margin: auto;
+ 
+}
